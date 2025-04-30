@@ -8,5 +8,5 @@ MG995 Servos(Elbow,Shoulder,Base) and SG90 Servos(Gripper,Pivot,Wrist) are 12V a
 Follow the Servo Pin Configuration in the File "esp8266.ino" during the Robotic Arm Assembly.<br /><br />
 Software Interface:<br />
 Upload the File "esp8266.ino" in the ESP8266 using Arduino IDE.<br />
-Run the File "web.html" using VSCode and control the Robotic Arm through the Webpage.<br /><br />
+Run the File "web.html" using VSCode and control the Robotic Arm through the Webpage.
 
